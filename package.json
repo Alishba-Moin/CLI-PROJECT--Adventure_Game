@@ -1,0 +1,14 @@
+{
+"name":"alish18ba11-adventure-game",
+"version":"1.0.0",
+"description":"this is cli-based adventure game",
+"main":"index.js","type":"module",
+"bin":"index.js",
+"scripts":{"test":"echo \"Error: no test specified\" && exit 1"},
+"keywords":[],
+"author":"",
+"license":"ISC",
+"dependencies":{"chalk":"^5.3.0",
+"inquirer":"^9.2.17"},
+"devDependencies":{"@types/inquirer":"^9.0.7"}
+}
